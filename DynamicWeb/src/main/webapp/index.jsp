@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>List of books</h1>
+	<h1>List of books 1</h1>
 
 	<%
 	for (String name : DatabaseFacade.getBooks()) {
